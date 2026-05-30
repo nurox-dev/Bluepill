@@ -1,0 +1,1 @@
+-- Local seed placeholder. Add development rows here when needed.

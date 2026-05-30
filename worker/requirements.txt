@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+httpx>=0.28
+pydantic-settings>=2.7
+openai-agents>=0.0.19
+croniter>=2.0
+mcp>=1.27.0

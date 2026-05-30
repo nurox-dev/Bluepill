@@ -1,0 +1,11 @@
+{
+  "name": "Project BluePill",
+  "short_name": "BluePill",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F9FC",
+  "theme_color": "#2563EB",
+  "description": "AI-powered personal life dashboard.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
